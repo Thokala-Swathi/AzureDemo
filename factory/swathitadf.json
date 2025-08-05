@@ -1,0 +1,9 @@
+{
+	"name": "swathitadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d061608-0293-4fe7-b0ce-e8fb5b32c5c3",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
